@@ -2,7 +2,7 @@
 Resource link: https://www.w3schools.com/whatis/default.asp
 
 ## Table of contents
-1. [What is HTTP?](##http)
+1.) [What is HTTP?](##http)
 
 
 
