@@ -63,6 +63,7 @@ HTML elements are the building blocks of HTML pages.
 - **visible part** of the HTML document is between ````<body>```` and ````</body>````.
 
 ### General HTML Document Structure
+````
 <html>
   <head>
     <title>Page title</title>
@@ -72,3 +73,4 @@ HTML elements are the building blocks of HTML pages.
     <p>This is a paragraph.</p>
   </body>
 </html>
+````
