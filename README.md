@@ -52,5 +52,23 @@ HTML elements are the building blocks of HTML pages.
 - ````charset```` attribure defines the character set used in the document
 - ````<title>```` element specifies a title for the document
 - ````<body>```` element contains the visible page content
-- ````<h1>```` element defines a large heading
+- ````<h1>```` element defines a large heading. Goes from ````<h1>````` to ````<h6>````
 - ````<p>```` element defines a paragraph
+- ````<a>```` element defines links. A link's destination is specified in the ````href=""```` attribute. e.g. ````<a href="web-link">text description for the hyperlink</a>````
+- ````<img>```` element defines images. The source file ````src````, alternative text ````alt````, ````width````, and ````height```` are provided as **attributes**. eg. ````<img src="image-file", alt="alternative-text", style="width:100px;height:100px"````>
+
+### HTML Documents
+- must start with a document type declaration: ````<!DOCTYPE html>````.
+- begins with ````<html>```` and ends with ````</html>````.
+- **visible part** of the HTML document is between ````<body>```` and ````</body>````.
+
+### General HTML Document Structure
+<html>
+  <head>
+    <title>Page title</title>
+    </head>
+  <body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+  </body>
+</html>
