@@ -68,9 +68,9 @@ HTML elements are the building blocks of HTML pages.
   <head>
     <title>Page title</title>
     </head>
-  <body>
+  <body>  # Browser will only display what is in the BODY <body start>
     <h1>This is a heading</h1>
     <p>This is a paragraph.</p>
-  </body>
+  </body> # Browser will only display what is in the BODY <body end>
 </html>
 ````
